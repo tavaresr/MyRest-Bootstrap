@@ -1,0 +1,30 @@
+{
+  "name": "MyRest",
+  "authors": [
+    "Ricardo Tavares"
+  ],
+  "description": "Website for an awesome restaurant - playground",
+  "main": "index.html",
+  "keywords": [
+    "MyRest",
+    "HTML",
+    "CSS",
+    "Less",
+    "JavaScript",
+    "JQuery",
+    "Bootsrap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.2"
+  }
+}
